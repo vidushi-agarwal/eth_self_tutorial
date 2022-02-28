@@ -1,1 +1,5 @@
 venv
+node_modules
+hardhat-tutorial/package-lock.json
+hardhat-tutorial/cache
+package-lock.json
